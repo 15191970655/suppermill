@@ -1,4 +1,4 @@
-# myproject
+# supermail
 
 ## Project setup
 ```
